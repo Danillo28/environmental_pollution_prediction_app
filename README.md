@@ -11,10 +11,9 @@ Instantly predict if water conditions are safe
 
 This app helps environmental researchers, policymakers, and community health workers **make informed decisions about water safety.**
 
-## 🖥️ App Interface
+## App Interface
 
-**Username:** Enter your name or ID to track predictions.
-**Salinity, Dissolved Oxygen, pH, Water Depth, Temperature:** Enter measured values.
+**Parameters: Salinity, Dissolved Oxygen, pH, Water Depth, Temperature:** Enter measured values.
 Click **Predict** to receive an instant water safety assessment.
 
 ##  How It Works
