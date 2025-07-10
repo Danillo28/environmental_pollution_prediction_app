@@ -1,6 +1,3 @@
-# environmental_pollution_prediction_app
-A machine learning-powered application for predicting environmental pollution levels in real-time, enabling informed decisions to improve public health and sustainability.
-
 # Water Safety Predictor App
 
 A **machine learning-powered web app** to predict water safety based on **salinity, dissolved oxygen, pH, water depth, and temperature** for environmental monitoring, research, and community awareness.
